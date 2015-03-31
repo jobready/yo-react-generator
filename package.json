@@ -1,10 +1,10 @@
 {
-  "name": "generator-jobreadyreactgenerator",
+  "name": "generator-react-generator",
   "version": "0.0.0",
-  "description": "Yeoman generator",
+  "description": "Yeoman react generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "subshad/generator-jobreadyreactgenerator",
+  "repository": "jobready/yo-react-generator",
   "author": {
     "name": "Jacob Bass",
     "email": "jacob@jacobbass.net",
