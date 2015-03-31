@@ -1,6 +1,6 @@
-# generator-jobreadyreactgenerator [![Build Status](https://secure.travis-ci.org/subshad/generator-jobreadyreactgenerator.png?branch=master)](https://travis-ci.org/subshad/generator-jobreadyreactgenerator)
+# yo-react-generator
 
-> [Yeoman](http://yeoman.io) generator
+> [Yeoman](http://yeoman.io) generator for react components
 
 
 ## Getting Started
@@ -23,16 +23,16 @@ npm install -g yo
 
 Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-jobreadyreactgenerator from npm, run:
+To install yo-react-generator from npm, run:
 
 ```bash
-npm install -g generator-jobreadyreactgenerator
+npm install -g jobready/yo-react-generator
 ```
 
 Finally, initiate the generator:
 
 ```bash
-yo jobreadyreactgenerator
+yo react-generator
 ```
 
 ### Getting To Know Yeoman
