@@ -14,7 +14,7 @@ module.exports = yeoman.generators.Base.extend({
 
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the slick ' + chalk.red('Jobreadyreactgenerator') + ' generator!'
+      'Welcome to the slick ' + chalk.red('React') + ' generator!'
     ));
 
     var prompts = [
